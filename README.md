@@ -1,7 +1,7 @@
 # Prerequisite
 
-install `yarn`
-`yarn global add parcel-bundler`
+- install `yarn`
+- `yarn global add parcel-bundler`
 
 # Developement
 
