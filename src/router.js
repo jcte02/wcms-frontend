@@ -14,7 +14,7 @@ export default new Router({
     {
       path: '/about',
       name: 'about',
-      component: async () => await import('./view/About'),
+      component: () => import('./view/About'),
     },
   ],
 });
